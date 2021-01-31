@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,CHILEVISION HD
-http://extremo.dyndns.ws:25461/live/lety/lety/666.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2359.ts
 
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" group-title="Nacionales" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
