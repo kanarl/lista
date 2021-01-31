@@ -6,6 +6,15 @@ http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35195.m3u8
 #EXTINF:0,History Channel FHD (Dual)
 http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35197.m3u8
 
+#EXTINF:0,Discovery Channel FHD (Dual) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35204.m3u8
+
+#EXTINF:0,National Geographic FHD (Dual)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35211.m3u8
+
+#EXTINF:0,Cartoon Network FHD (Dual) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35222.m3u8
+
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" group-title="Nacionales" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
 
