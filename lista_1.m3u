@@ -164,11 +164,17 @@ http://tv.nousiptv.com:8080/Lucy/123456/24180
 http://tv.nousiptv.com:8080/Lucy/123456/33359
 #EXTINF:-1,CINE - FOX CHANNEL
 http://tv.nousiptv.com:8080/Lucy/123456/4121
+#EXTINF:-1,FHD - FOX HD
+http://tv.nousiptv.com:8080/Lucy/123456/4022
 #EXTINF:-1,CINE - FOX LIFE
 http://tv.nousiptv.com:8080/Lucy/123456/3203
+#EXTINF:-1,FHD - FOX LIFE HD
+http://tv.nousiptv.com:8080/Lucy/123456/4043
 #EXTINF:-1,CINE - FOX PREMIUM ACTION
 http://tv.nousiptv.com:8080/Lucy/123456/3263
-#EXTINF:-1,CINE - FOX PREMIUM CINEMA
+#EXTINF:-1,FHD - FOX PREMIUM ACTION
+http://tv.nousiptv.com:8080/Lucy/123456/4019
+#EXTINF:-1,CINE - FOX PREMIUM CINEMA HD
 http://tv.nousiptv.com:8080/Lucy/123456/3264
 #EXTINF:-1,CINE - FOX PREMIUM CLASSICS
 http://tv.nousiptv.com:8080/Lucy/123456/3077
@@ -190,6 +196,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/3236
 http://tv.nousiptv.com:8080/Lucy/123456/3237
 #EXTINF:-1,CINE - HBO
 http://tv.nousiptv.com:8080/Lucy/123456/3199
+#EXTINF:-1,FHD - HBO HD
+http://tv.nousiptv.com:8080/Lucy/123456/4112
 #EXTINF:-1,CINE - HBO 2
 http://tv.nousiptv.com:8080/Lucy/123456/3198
 #EXTINF:-1,CINE - HBO POP
@@ -214,6 +222,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/2952
 http://tv.nousiptv.com:8080/Lucy/123456/3069
 #EXTINF:-1,CINE - SPACE
 http://tv.nousiptv.com:8080/Lucy/123456/3232
+#EXTINF:-1,FHD - SPACE HD
+http://tv.nousiptv.com:8080/Lucy/123456/4099
 #EXTINF:-1,CINE - STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/Lucy/123456/3229
 #EXTINF:-1,CINE - SUNDANCE TV
@@ -236,6 +246,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/3228
 http://tv.nousiptv.com:8080/Lucy/123456/4146
 #EXTINF:-1,ENT -COMEDY CENTRAL
 http://tv.nousiptv.com:8080/Lucy/123456/3241
+#EXTINF:-1,ES - COMEDY CENTRAL HD
+http://tv.nousiptv.com:8080/Lucy/123456/3103
 #EXTINF:-1,ENT -DISCOVERY TURBO
 http://tv.nousiptv.com:8080/Lucy/123456/3257
 #EXTINF:-1,ENT -E! ENTERTAINMENT
@@ -264,6 +276,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/3798
 http://tv.nousiptv.com:8080/Lucy/123456/3085
 #EXTINF:-1,INF - CARTOON NETWORK
 http://tv.nousiptv.com:8080/Lucy/123456/3249
+#EXTINF:-1,FHD - CARTOON NETWORK HD
+http://tv.nousiptv.com:8080/Lucy/123456/4063
 #EXTINF:-1,INF - DISCOVERY KIDS
 http://tv.nousiptv.com:8080/Lucy/123456/3254
 #EXTINF:-1,INF - DISNEY CHANNEL
