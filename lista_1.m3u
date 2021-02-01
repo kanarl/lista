@@ -284,6 +284,12 @@ http://tv.nousiptv.com:8080/Lucy/123456/3220
 http://tv.nousiptv.com:8080/Lucy/123456/3071
 #EXTINF:-1,INF - TOONCAST
 http://tv.nousiptv.com:8080/Lucy/123456/3242
+#EXTINF:-1 group-title="Nacionales",CHILE - CHILEVISION  HD
+http://tv.nousiptv.com:8080/Lucy/123456/2147
+#EXTINF:-1 group-title="Nacionales",CHILE - CANAL 13 HD
+http://tv.nousiptv.com:8080/Lucy/123456/6847
+#EXTINF:-1 group-title="Nacionales",CHILE - LA RED HD
+http://tv.nousiptv.com:8080/Lucy/123456/51823
 
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" group-title="Nacionales" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
