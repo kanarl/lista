@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="CHV" tvg-logo="https://chilevision-static-01.warnermediacdn.com/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png", CHV 
-https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1612136937.js
+https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=uyrmi9zdt&amp;kxt=https%3A%2F%2Fwww.chilevision.cl&amp;kxcl=cdn&amp
 
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" group-title="Nacionales" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
