@@ -1,7 +1,9 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-name="LA RED" group-title="Nacionales" tvg-logo="https://i.imgur.com/D3PYuhe.jpg" , LA RED
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13" group-title="Nacionales" tvg-logo="https://i.imgur.com/IvyMi0N.png" , CANAL 13
 http://c13-live-1.cdn.nedmedia.io/index.m3u8
