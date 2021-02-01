@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" tvg-name="LA RED" group-title="Nacionales" tvg-logo="https://i.imgur.com/D3PYuhe.jpg" , LA RED
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 
@@ -136,7 +135,6 @@ https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8?PlaylistM3U
 
 #EXTINF:-1 tvg-id="97299" tvg-name="On Radio Chile" group-title="Musica" tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/2020-03-01.png", On Radio Chile
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
-
 
 
 #EXTINF:-1 tvg-id="102656" tvg-name="Red Fueguina Radio" group-title="Musica" tvg-logo="https://lh3.googleusercontent.com/-AX14DpZylvw/Xqx1dYnBM7I/AAAAAAAAyhM/FKTxf_9d9hEY1okFtMwivpO3IIy9KAAcgCK8BGAsYHg/s0/2020-05-01.png", Red Fueguina Radio
